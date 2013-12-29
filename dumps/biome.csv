@@ -89,7 +89,7 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Min Height,Max Height,Types,Class
 87,Fire Swamp,1.0,0.4,0.12,-0.25,0.0,"FOREST, SWAMP, WASTELAND",twilightforest.biomes.TFBiomeFireSwamp
 88,null,null,null,null
 89,null,null,null,null
-90,null,null,null,null
+90,Rainbow Forest,0.7,0.8,0.6,0.1,0.3,"FOREST, HILLS, MAGICAL",Reika.DyeTrees.World.BiomeRainbowForest
 91,null,null,null,null
 92,null,null,null,null
 93,null,null,null,null
@@ -181,8 +181,8 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Min Height,Max Height,Types,Class
 179,Canyon,0.8,0.4,0.1,1.5,2.0,"MOUNTAIN, HILLS, DESERT",biomesoplenty.biomes.BiomeGenCanyon
 180,Chaparral,0.8,0.4,0.1,0.3,0.6,PLAINS,biomesoplenty.biomes.BiomeGenChaparral
 181,Cherry Blossom Grove,0.7,0.8,0.1,0.3,0.4,"FOREST, MAGICAL",biomesoplenty.biomes.BiomeGenCherryBlossomGrove
-182,Coniferous Forest,0.5,0.4,0.1,0.2,0.8,"FOREST, HILLS",biomesoplenty.biomes.BiomeGenConiferousForest
-183,Snowy Coniferous Forest,0.0,0.5,0.1,0.2,0.7,"FOREST, HILLS, FROZEN",biomesoplenty.biomes.BiomeGenConiferousForestSnow
+182,Coniferous Forest,0.5,0.4,0.1,0.4,0.9,"FOREST, HILLS",biomesoplenty.biomes.BiomeGenConiferousForest
+183,Snowy Coniferous Forest,0.0,0.5,0.1,0.3,0.6,"FOREST, HILLS, FROZEN",biomesoplenty.biomes.BiomeGenConiferousForestSnow
 184,Crag,0.4,0.2,0.1,2.0,3.0,"MOUNTAIN, WASTELAND",biomesoplenty.biomes.BiomeGenCrag
 185,Dead Forest,1.2,0.1,0.1,0.2,0.7,FOREST,biomesoplenty.biomes.BiomeGenDeadForest
 186,Snowy Dead Forest,0.05,0.8,0.1,0.2,0.7,"FOREST, FROZEN",biomesoplenty.biomes.BiomeGenDeadForestSnow
@@ -225,7 +225,7 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Min Height,Max Height,Types,Class
 223,Polar,0.0,0.5,0.1,-0.5,0.0,"WATER, FROZEN",biomesoplenty.biomes.BiomeGenPolar
 224,Prairie,0.9,0.6,0.1,0.3,0.4,PLAINS,biomesoplenty.biomes.BiomeGenPrairie
 225,Quagmire,0.8,0.9,0.1,0.2,0.3,"SWAMP, WASTELAND",biomesoplenty.biomes.BiomeGenQuagmire
-226,Rainforest,2.0,2.0,0.1,0.4,1.8,"FOREST, HILLS, JUNGLE",biomesoplenty.biomes.BiomeGenRainforest
+226,Rainforest,2.0,2.0,0.1,0.2,1.8,"FOREST, HILLS, JUNGLE",biomesoplenty.biomes.BiomeGenRainforest
 227,Redwood Forest,0.8,0.4,0.1,0.3,0.4,FOREST,biomesoplenty.biomes.BiomeGenRedwoodForest
 228,Sacred Springs,1.2,0.9,0.1,0.4,1.2,"FOREST, MOUNTAIN, MAGICAL",biomesoplenty.biomes.BiomeGenSacredSprings
 229,Savanna,1.5,0.1,0.1,0.3,0.4,"PLAINS, DESERT",biomesoplenty.biomes.BiomeGenSavanna
@@ -237,7 +237,7 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Min Height,Max Height,Types,Class
 235,Sludgepit,0.8,0.9,0.1,0.1,0.3,"FOREST, SWAMP, WASTELAND",biomesoplenty.biomes.BiomeGenSludgepit
 236,Spruce Woods,0.6,0.7,0.1,0.1,0.3,FOREST,biomesoplenty.biomes.BiomeGenSpruceWoods
 237,Steppe,2.0,0.05,0.1,0.3,0.4,"PLAINS, DESERT",biomesoplenty.biomes.BiomeGenSteppe
-238,Temperate Rainforest,0.7,0.8,0.1,0.2,1.2,"FOREST, HILLS",biomesoplenty.biomes.BiomeGenTemperateRainforest
+238,Temperate Rainforest,0.7,0.8,0.1,0.2,0.6,"FOREST, HILLS",biomesoplenty.biomes.BiomeGenTemperateRainforest
 239,Thicket,0.6,0.2,0.1,0.2,0.2,"FOREST, PLAINS",biomesoplenty.biomes.BiomeGenThicket
 240,Timber,0.7,0.8,0.1,0.3,0.4,FOREST,biomesoplenty.biomes.BiomeGenTimber
 241,Tropical Rainforest,1.2,0.9,0.1,0.3,0.7,JUNGLE,biomesoplenty.biomes.BiomeGenTropicalRainforest

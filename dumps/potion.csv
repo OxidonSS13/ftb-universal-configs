@@ -20,13 +20,13 @@ ID,Unlocalised name,Class
 18,potion.weakness,net.minecraft.potion.PotionAttackDamage
 19,potion.poison,net.minecraft.potion.Potion
 20,potion.wither,net.minecraft.potion.Potion
-21,potion.healthBoost,net.minecraft.potion.PotionHealthBoost
+21,potion.radiation,atomicscience.api.poison.PotionRadiation
 22,potion.absorption,net.minecraft.potion.PotionAbsoption
 23,potion.saturation,net.minecraft.potion.PotionHealth
 24,ic2.potion.radiation,ic2.core.IC2Potion
-25,null,null,null,null
-26,null,null,null,null
-27,null,null,null,null
+25,potion.frostBite,icbm.explosion.potion.PDongShang
+26,potion.toxin,icbm.explosion.potion.PDaDu
+27,potion.virus,icbm.explosion.potion.PChuanRanDu
 28,null,null,null,null
 29,null,null,null,null
 30,potion.fluxtaint,thaumcraft.common.items.PotionFluxTaint

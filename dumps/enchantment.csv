@@ -199,7 +199,7 @@ ID,Unlocalised name,Type,Min Level,Max Level,Class
 197,null,null,null,null
 198,null,null,null,null
 199,null,null,null,null
-200,null,null,null,null
+200,enchantment.decapitation,weapon,1,3,playerbeacons.common.EnchantmentDecapitation
 201,null,null,null,null
 202,null,null,null,null
 203,null,null,null,null
